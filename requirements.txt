@@ -61,7 +61,7 @@ sqlparse==0.3.0
 tablib==2.0.0
 texttable==1.6.3
 threadpoolctl==2.1.0
-unittest-xml-reporting==3.0.1
+unittest-xml-reporting==3.8.1
 virtualenv==20.0.4
 whitenoise==5.1.0
 wrapt==1.11.2
